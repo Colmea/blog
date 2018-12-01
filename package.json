@@ -1,0 +1,12 @@
+{
+  "name": "blog",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Personnal Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur Schwaiger <arthur.schwaiger@gmail.com>",
+  "license": "ISC"
+}
